@@ -1,1 +1,1 @@
-patika.Dev platformu, Java101 dersinin ödev sunumları.
+patika.Dev platformu, Java101 kursunun ödev sunumları.
