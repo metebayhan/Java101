@@ -21,7 +21,7 @@ public class KullaniciGirisi {
                     System.out.print("Yeni şifrenizi girin: ");
                     String newPassword = input.nextLine();
                     if (newPassword.equals("password")) {
-                        System.out.println("Yeni şifreniz eski şifrenizle aynı olamaz. Lütfen farklı bir şifre deneyin.");
+                        System.out.println("Lütfen farklı bir şifre deneyin.");
                     } else {
                         System.out.println("Yeni şifreniz oluşturuldu.");
                     }
